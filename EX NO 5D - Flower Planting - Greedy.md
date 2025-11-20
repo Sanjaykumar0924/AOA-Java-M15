@@ -1,5 +1,5 @@
 
-# EX 5D Flower Planting.
+# EX 5D Flower Planting
 ## DATE: 4.11.25
 ## AIM:
 To write a Java program to for given constraints.
